@@ -109,6 +109,9 @@ body{
   width: 6px;
   height: 6px;  /* for horizontal scroll bar*/
 }
+::-webkit-scrollbar-thumb {
+  background-color: var(--white-alpha-8);
+}
 /*
 -----------------------------------*\
   #MATERIAL ICON
